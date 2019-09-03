@@ -10,3 +10,4 @@ class Ram(Vehicle, GasPowered):
 
     def drive(self):
         GasPowered.drive(self, 6)
+
